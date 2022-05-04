@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651694548 source:c:\destux\colleze\spdd\assignment-4\main.c
+	<Windows.h>
+	<stdio.h>
+
